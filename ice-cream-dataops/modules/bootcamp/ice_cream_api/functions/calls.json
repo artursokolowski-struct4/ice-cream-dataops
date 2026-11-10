@@ -1,0 +1,5 @@
+{
+    "sites": ["Marseille","Sao_Paulo","Chicago","Rotterdam","Houston","Oslo","Kuala_Lumpur","Hannover","Nuremberg","London"],
+    "hours": 336,
+    "backfill": true
+}
